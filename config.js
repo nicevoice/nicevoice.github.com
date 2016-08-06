@@ -1,7 +1,7 @@
 config = {
-    blogname: 'Fengz',
+    blogname: '八音',
     sep: ' | ',
-    user: 'YCF',
-    repo: 'ycf.github.io',
+    user: 'nicevoice',
+    repo: 'nicevoice.github.io',
     per_page: 999
 }
