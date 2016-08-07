@@ -2,6 +2,6 @@ config = {
     blogname: '八音',
     sep: ' | ',
     user: 'nicevoice',
-    repo: 'nicevoice.github.io',
+    repo: 'nicevoice.github.com',
     per_page: 999
 }
